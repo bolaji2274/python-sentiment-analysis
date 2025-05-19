@@ -1,0 +1,101 @@
+[
+  {
+    "id": "e1",
+    "name": "Smartphone XYZ",
+    "category": "Electronics",
+    "price": 699.99,
+    "description": "Latest smartphone with 6.7-inch display, 128GB storage, and triple camera system.",
+    "rating": 4.5,
+    "stock": 25
+  },
+  {
+    "id": "e2",
+    "name": "Wireless Headphones",
+    "category": "Electronics",
+    "price": 149.99,
+    "description": "Premium noise-cancelling wireless headphones with 30-hour battery life.",
+    "rating": 4.7,
+    "stock": 40
+  },
+  {
+    "id": "e3",
+    "name": "Smartwatch Pro",
+    "category": "Electronics",
+    "price": 249.99,
+    "description": "Advanced smartwatch with health monitoring, GPS, and waterproof design.",
+    "rating": 4.3,
+    "stock": 15
+  },
+  {
+    "id": "c1",
+    "name": "Casual T-shirt",
+    "category": "Clothing",
+    "price": 19.99,
+    "description": "Comfortable cotton t-shirt available in multiple colors.",
+    "rating": 4.2,
+    "stock": 100
+  },
+  {
+    "id": "c2",
+    "name": "Denim Jeans",
+    "category": "Clothing",
+    "price": 59.99,
+    "description": "Classic denim jeans with straight fit.",
+    "rating": 4.4,
+    "stock": 75
+  },
+  {
+    "id": "h1",
+    "name": "Coffee Maker",
+    "category": "Home & Kitchen",
+    "price": 89.99,
+    "description": "Programmable coffee maker with 12-cup capacity.",
+    "rating": 4.1,
+    "stock": 30
+  },
+  {
+    "id": "h2",
+    "name": "Non-stick Cookware Set",
+    "category": "Home & Kitchen",
+    "price": 129.99,
+    "description": "10-piece non-stick cookware set with glass lids.",
+    "rating": 4.6,
+    "stock": 20
+  },
+  {
+    "id": "b1",
+    "name": "Artificial Intelligence Basics",
+    "category": "Books",
+    "price": 29.99,
+    "description": "Introduction to artificial intelligence and machine learning concepts.",
+    "rating": 4.8,
+    "stock": 50
+  },
+  {
+    "id": "b2",
+    "name": "The Bestseller Novel",
+    "category": "Books",
+    "price": 14.99,
+    "description": "Award-winning fiction novel with over 1 million copies sold.",
+    "rating": 4.9,
+    "stock": 60
+  },
+  {
+    "id": "be1",
+    "name": "Face Serum",
+    "category": "Beauty",
+    "price": 24.99,
+    "description": "Hydrating face serum with vitamin C for all skin types.",
+    "rating": 4.5,
+    "stock": 45
+  },
+  {
+    "id": "be2",
+    "name": "Makeup Set",
+    "category": "Beauty",
+    "price": 39.99,
+    "description": "Complete makeup set with eyeshadow, lipstick, and mascara.",
+    "rating": 4.3,
+    "stock": 35
+  }
+]

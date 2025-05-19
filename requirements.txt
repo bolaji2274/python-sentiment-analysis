@@ -1,0 +1,37 @@
+# # Python Libraries
+# speechrecognition
+# pyaudio
+# librosa
+# numpy
+# pandas
+# scikit-learn
+# transformers
+# torch
+# soundfile
+# matplotlib
+
+# import textwrap
+
+# Core libraries
+numpy
+pandas
+matplotlib
+seaborn
+
+# Voice processing
+SpeechRecognition
+PyAudio
+pyttsx3
+gTTS
+
+# NLP and Sentiment Analysis
+nltk
+transformers
+torch
+scikit-learn
+pygame
+hf_xet
+
+# Utilities
+tqdm
+python-dotenv
